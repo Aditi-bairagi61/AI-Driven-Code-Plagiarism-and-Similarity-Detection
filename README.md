@@ -29,7 +29,7 @@ The project leverages the **CodeSearchNet Dataset**, which provides a rich colle
 ## System Architecture
 Below is the architecture diagram illustrating the system's workflow:
 
-![Architecture Diagram](WhatsApp_Image_2024-12-28_at_10.50.17_AM.jpeg)
+![Architecture Diagram](Architecture.jpeg)
 
 1. **Data Source:** CodeSearchNet Dataset.
 2. **Data Acquisition:** Fetches data from the database.
